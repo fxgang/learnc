@@ -18,5 +18,8 @@
     <ClCompile Include="ls001.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ls002.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
